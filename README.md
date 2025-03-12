@@ -1,1 +1,1 @@
-# hosts_sync_go
+# hosts_sync_go:
